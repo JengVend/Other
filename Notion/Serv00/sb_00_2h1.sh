@@ -676,4 +676,4 @@ menu() {
 menu
 
 
-bash <(curl -Ls https://github.com/JengVend/Other/releases/download/sing-box/sb_00_2h1.sh)
+#bash <(curl -Ls https://github.com/JengVend/Other/releases/download/sing-box/sb_00_2h1.sh)
